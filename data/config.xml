@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<sitename>Fly Web Design</sitename>
+	<slogan>Don't Get Caught In The Web Of Confusion</slogan>
+	<baseurl>http://localhost/flywebdesign</baseurl>
+	<dbpath>data</dbpath>
+	<cachepath></cachepath>
+	<adminmail>webmaster@flywebdesign.com</adminmail>
+	<theme>default</theme>
+</config>

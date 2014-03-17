@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<home>
+		<title>Title of the page shown at the top of the browser.</title>
+		<head-title>A title for the user to see. EG. About Us</head-title>
+		<content>We can place what ever we wish here including HTML elements, Javascript, PHP, or plain text.</content>
+	</home>
+	<about-us>
+		<title>Title of the page shown at the top of the browser.</title>
+		<head-title>A title for the user to see. EG. About Us</head-title>
+		<content>With this method we can include all the content on a single file or in files named after the requested page. If you choose to use the requested page you must have the page in the requested URL. EG. http://www.example.com/about-us.php</content>
+	</about-us>
+</page>
